@@ -10,6 +10,6 @@
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    printf("I am in Burin Newfoundland writing code.  The weather is terrible.\n");
     return 0;
 }
